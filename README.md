@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning fishy<br>🎯 Goals: Earn Money<br>🎲 Fun fact: Debugging reality daily</p>
+<p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning Web sockets<br>🎯 Goals: Earn Money<br>🎲 Fun fact: Debugging reality daily</p>
 
 ###
