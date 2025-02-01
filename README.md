@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey gorgeous</h1>
 
 ###
 
@@ -6,10 +6,14 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Who am I</h2>
 
 ###
 
 <p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning Web sockets<br>🎯 Goals: Earn Money<br>🎲 Fun fact: Debugging reality daily</p>
+
+###
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
 
 ###
