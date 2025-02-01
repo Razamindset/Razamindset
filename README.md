@@ -14,6 +14,6 @@
 
 ###
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=razamindset.razamindset)
+<img src="https://komarev.com/ghpvc/?username=Razamindset&color=brightgreen" alt="watching_count" />
 
 ###
