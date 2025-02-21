@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ali Raza Khalid and I'm a developer, from Pakistan</p>
+<p align="left">My name is Ali Raza Khalid and I'm a 17-year-old developer from Pakistan</p>
 
 ###
 
@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning Web sockets<br>🎯 Goals: Earn Money<br>🎲 Fun fact: Debugging reality daily</p>
+<p align="left">
+✨ Creating bugs since birth<br>
+📚 I'm currently building a chess engine in cpp<br>
+🎯 Goals: Earn Money<br>
+🎲 Fun fact: Debugging reality daily<br>
+♟️ Chess player with a passion for programming and exponential imagination<br>
+🔬 Enthusiast in mathematics and physics<br>
+🚀 I build projects that interest me and never shy away from learning new things
+</p>
 
 ###
 
