@@ -1,4 +1,4 @@
-<h1 align="left">Hey Gorgeous 👋</h1>
+<h1 align="left">Hey Gorgeous</h1>
 
 <p align="left">
 I'm <strong>Ali</strong>, a 17-year-old developer from 🇵🇰 Pakistan.
@@ -6,7 +6,7 @@ I'm <strong>Ali</strong>, a 17-year-old developer from 🇵🇰 Pakistan.
 
 ---
 
-<h2 align="left">👨‍💻 Who am I</h2>
+<h2 align="left">Who am I</h2>
 
 <p align="left">
 I've been coding for 4 years now. I’ve worked with <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>C++</strong>. I've been building little by little alongside my studies.<br><br>
