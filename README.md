@@ -1,7 +1,7 @@
 <h1 align="left">Hey Gorgeous</h1>
 
 <p align="left">
-I'm <strong>Ali</strong>, a 17-year-old developer from 🇵🇰 Pakistan.
+I'm <strong>Ali</strong>, a 18-year-old developer from 🇵🇰 Pakistan.
 </p>
 
 ---
