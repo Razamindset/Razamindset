@@ -9,7 +9,7 @@ I build performance-focused systems — especially chess engines and neural netw
 
 ## ♟ Current Focus
 - Developing **Indus Dragon** (C++ chess engine)
-- Preparing to integrate NNUE-style evaluation
+- Developing my startup
 - Studying deep sequence modeling from scratch
 
 ---
