@@ -28,6 +28,6 @@ AI • Search Algorithms • Optimization • Physics • Quantum Computing • 
 
 📫 Discord: `@razamindset`  
 📧 razamindset.official@gmail.com  
-♟ https://www.chess.com/member/razamindset
+♟ https://www.lichess.org/@/razamindset
 
 <img src="https://komarev.com/ghpvc/?username=Razamindset&color=brightgreen" alt="Profile Views" />
